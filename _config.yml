@@ -1,12 +1,12 @@
 # Site
-name: 'Beeson Tree'
+name: 'Beeson Tree Services'
 description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/template-pintereso-bootstrap-jekyll'
+baseurl: '/'
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'support@beesontree.com'
 
 include: ["_pages"]
 permalink: /:title/
